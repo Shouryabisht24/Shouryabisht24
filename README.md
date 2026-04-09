@@ -80,9 +80,9 @@ I'm a **DevOps Engineer** from 🇮🇳 India, with **4+ years** of professional
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shouryabisht24&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF9900&icon_color=FF9900)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shouryabisht&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF9900&icon_color=FF9900)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shouryabisht24&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF9900)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shouryabisht&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF9900)
 
 </div>
 
