@@ -2,7 +2,7 @@
 
 # Hi there, I'm Shourya Bisht 👋
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=;DevOps+%26;4%2B+Years+Experience;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=DevOps+Engineer;4%2B+Years+of+Experience)](https://git.io/typing-svg)
 
 
 
