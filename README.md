@@ -96,6 +96,6 @@ I'm a **DevOps Engineer** from 🇮🇳 India, with **4+ years** of professional
 
 **"Automate the boring stuff. Focus on what matters."**
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=FF9900&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=ShouryaBisht24&color=FF9900&style=for-the-badge)
 
 </div>
