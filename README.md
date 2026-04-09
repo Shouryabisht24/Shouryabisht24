@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Shourya Bisht 👋
 
 ### 🚀 DevOps Engineer · 4 Years of Experience · India 🇮🇳
 
@@ -18,8 +18,6 @@ I'm a **DevOps Engineer** from 🇮🇳 India, with **4+ years** of professional
 
 - 🔭 Currently working on **cloud-native infrastructure**, **GitOps workflows**, and **CI/CD automation**
 - 🌱 Always learning about **emerging DevOps practices** and **cloud-native technologies**
-- 👯 Looking to collaborate on **open-source DevOps projects** and **infrastructure automation**
-- 💬 Ask me about **Kubernetes, Terraform, Docker, ArgoCD, and Cloud Architecture**
 - ⚡ Fun fact: I believe *if you do it twice, automate it!*
 
 ---
